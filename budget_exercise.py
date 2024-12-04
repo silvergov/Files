@@ -32,6 +32,8 @@ print(days)
 print(category)
 
 """
+Output
+
 ['Day', 'Electricity', 'Coffee', 'Cleaning']
 defaultdict(<class 'float'>, {'Monday': 390.0, 'Tuesday': 272.0, 'Wednesday': 224.0})
 defaultdict(<class 'float'>, {'Electricity': 680.0, 'Coffee': 36.0, 'Cleaning': 170.0})
